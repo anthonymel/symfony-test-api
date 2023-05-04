@@ -6,7 +6,7 @@
  * Time: 22:44
  */
 
-namespace App\Controller;
+namespace App\Controller\api;
 
 use App\Entity\Post;
 use App\Repository\PostRepository;

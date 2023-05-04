@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controller\Admin;
+namespace App\Controller\admin;
 
 use App\Entity\Post;
 use EasyCorp\Bundle\EasyAdminBundle\Config\MenuItem;
